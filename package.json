@@ -1,0 +1,22 @@
+{
+  "name": "irc-formatters",
+  "version": "1.0.0",
+  "description": "Can format text in fun ways",
+  "main": "plugin.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LordWingZero/irc-formatters"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postversion": "git push && git push --tags && npm publish"
+  },
+  "author": "Victorio Berra",
+  "license": "ISC",
+  "dependencies": {
+    "irc-colors": "^1.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
