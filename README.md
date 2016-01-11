@@ -4,3 +4,6 @@ Library mainly for usage by [tennu](https://github.com/Tennu/tennu) IRC bot fram
 
 Can format text in fun ways.
 
+Current:
+- Rainbow
+- Greentext
