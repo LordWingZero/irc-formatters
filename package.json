@@ -2,7 +2,7 @@
   "name": "irc-formatters",
   "version": "1.0.0",
   "description": "Can format text in fun ways",
-  "main": "plugin.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/LordWingZero/irc-formatters"
